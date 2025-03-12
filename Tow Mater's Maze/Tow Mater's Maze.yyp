@@ -35,6 +35,8 @@
   "name":"Tow Mater's Maze",
   "resources":[
     {"id":{"name":"obj_enter","path":"objects/obj_enter/obj_enter.yy",},},
+    {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
+    {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
     {"id":{"name":"obj_header","path":"objects/obj_header/obj_header.yy",},},
     {"id":{"name":"obj_mater","path":"objects/obj_mater/obj_mater.yy",},},
     {"id":{"name":"obj_Mcqueen","path":"objects/obj_Mcqueen/obj_Mcqueen.yy",},},
@@ -55,6 +57,7 @@
     {"id":{"name":"spr_fence","path":"sprites/spr_fence/spr_fence.yy",},},
     {"id":{"name":"spr_fenceside","path":"sprites/spr_fenceside/spr_fenceside.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
+    {"id":{"name":"spr_gameover","path":"sprites/spr_gameover/spr_gameover.yy",},},
     {"id":{"name":"spr_head","path":"sprites/spr_head/spr_head.yy",},},
     {"id":{"name":"spr_mater","path":"sprites/spr_mater/spr_mater.yy",},},
     {"id":{"name":"spr_mcqueendown","path":"sprites/spr_mcqueendown/spr_mcqueendown.yy",},},
