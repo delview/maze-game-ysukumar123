@@ -1,9 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Mcqueen",
-  "eventList":[],
+  "%Name":"obj_mcqueen",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":39,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":38,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":40,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_Mcqueen",
+  "name":"obj_mcqueen",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_mcqueenleft",
-    "path":"sprites/spr_mcqueenleft/spr_mcqueenleft.yy",
+    "name":"spr_mcqueendown",
+    "path":"sprites/spr_mcqueendown/spr_mcqueendown.yy",
   },
   "spriteMaskId":null,
   "visible":true,
