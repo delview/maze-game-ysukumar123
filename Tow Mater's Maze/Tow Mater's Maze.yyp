@@ -45,6 +45,7 @@
     {"id":{"name":"obj_mcchow","path":"objects/obj_mcchow/obj_mcchow.yy",},},
     {"id":{"name":"obj_mcqueen","path":"objects/obj_mcqueen/obj_mcqueen.yy",},},
     {"id":{"name":"obj_music_control","path":"objects/obj_music_control/obj_music_control.yy",},},
+    {"id":{"name":"obj_oil","path":"objects/obj_oil/obj_oil.yy",},},
     {"id":{"name":"obj_rock","path":"objects/obj_rock/obj_rock.yy",},},
     {"id":{"name":"obj_rockpro","path":"objects/obj_rockpro/obj_rockpro.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

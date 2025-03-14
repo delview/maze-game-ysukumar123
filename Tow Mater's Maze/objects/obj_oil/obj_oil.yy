@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_rockpro",
+  "%Name":"obj_oil",
   "eventList":[],
   "managed":true,
-  "name":"obj_rockpro",
+  "name":"obj_oil",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_rockpro",
-    "path":"sprites/spr_rockpro/spr_rockpro.yy",
+    "name":"spr_oil",
+    "path":"sprites/spr_oil/spr_oil.yy",
   },
   "spriteMaskId":null,
   "visible":true,
