@@ -35,6 +35,7 @@
   "name":"Tow Mater's Maze",
   "resources":[
     {"id":{"name":"obj_back","path":"objects/obj_back/obj_back.yy",},},
+    {"id":{"name":"obj_cactus","path":"objects/obj_cactus/obj_cactus.yy",},},
     {"id":{"name":"obj_enter","path":"objects/obj_enter/obj_enter.yy",},},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
     {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
